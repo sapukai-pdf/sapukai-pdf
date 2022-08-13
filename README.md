@@ -8,3 +8,7 @@ Sapukái PDF es un zine digital, dedicado a recopilar, curar, editar, producir y
 [instagram](https://instagram.com/sapukaizine)\
 [twitter](https://twitter.com/sapukaizine)\
 [facebook](https://facebook.com/sapukaizine)
+
+## Contacto/Propuestas
+
+[Google Form](https://forms.gle/ic5pQwWExu3WNn87A)

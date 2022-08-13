@@ -6,7 +6,7 @@ Sapukái PDF es un zine digital, dedicado a recopilar, curar, editar, producir y
 
 ## Biblioteca
 
-Conocimiento para todxs >> (Acceso)[https://bit.ly/bibliotecasapukai]
+Conocimiento para todxs >> [Acceso](https://bit.ly/bibliotecasapukai)
 
 ## Redes Sociales
 [instagram](https://instagram.com/sapukaizine)\
